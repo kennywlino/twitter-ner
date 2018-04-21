@@ -5,10 +5,10 @@ FLAG=$1
 DATA_DIR="./data/"
 OUT_DIR="./result/${FLAG}"
 
-TRAIN_DATA="train"
-TEST_DATA="dev"
-#TRAIN_DATA="train_notypes"
-#TEST_DATA="dev_notypes"
+#TRAIN_DATA="train"
+#TEST_DATA="dev"
+TRAIN_DATA="train_notypes"
+TEST_DATA="dev_notypes"
 TRAIN_FEAT=${OUT_DIR}/${TRAIN_DATA}.feats
 TEST_FEAT=${OUT_DIR}/${TEST_DATA}.feats
 
