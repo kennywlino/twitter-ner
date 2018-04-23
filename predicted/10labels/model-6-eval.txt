@@ -1,0 +1,13 @@
+orthographic dropout:
+processed 61908 tokens with 3621 phrases; found: 2163 phrases; correct: 657.
+accuracy:  91.22%; precision:  30.37%; recall:  18.14%; FB1:  22.72
+          company: precision:  55.95%; recall:  14.71%; FB1:  23.30  168
+         facility: precision:  17.82%; recall:  13.53%; FB1:  15.38  202
+          geo-loc: precision:  48.89%; recall:  34.72%; FB1:  40.61  630
+            movie: precision:   0.00%; recall:   0.00%; FB1:   0.00  45
+      musicartist: precision:   8.33%; recall:   5.10%; FB1:   6.33  120
+            other: precision:  23.57%; recall:  17.15%; FB1:  19.85  454
+           person: precision:  29.83%; recall:  14.14%; FB1:  19.19  238
+          product: precision:  13.91%; recall:   5.63%; FB1:   8.02  115
+       sportsteam: precision:   9.43%; recall:   9.93%; FB1:   9.68  159
+           tvshow: precision:   0.00%; recall:   0.00%; FB1:   0.00  32

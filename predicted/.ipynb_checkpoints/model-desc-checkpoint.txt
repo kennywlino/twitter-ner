@@ -1,0 +1,7 @@
+List of models:
+model-1: word embeddings (trained from training set alone)
+model-2: GloVe word embeddings
+model-3: char embeddings + word embeddings (training set alone)
+model-4: char embeddings + GloVe word embeddings
+model-5: orthographic character embeddings + orthographic word embeddings + regular character embeddings + regular word embeddings
+model-6: model-5 but added 50% dropout on the LSTM layers

@@ -16,6 +16,8 @@ sklearn = "*"
 scipy = "*"
 dynet = "*"
 jupyter = "*"
+gensim = "*"
+mxnet = "*"
 
 
 [dev-packages]
